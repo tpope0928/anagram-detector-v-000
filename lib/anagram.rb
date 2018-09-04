@@ -9,7 +9,8 @@ class Anagram
   
   def match
     match = []
-    
+    array.each do |word|
+      
   end
 
 
